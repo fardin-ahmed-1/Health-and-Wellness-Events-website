@@ -1,0 +1,241 @@
+[
+  {
+    "id": "001",
+    "name": "Dr. Emily Johnson",
+    "job_title": "Cardiologist",
+    "profile_url": "https://i.ibb.co/K7dH0N9/doctor-5.jpg",
+    "about": "Dr. Emily Johnson is a highly experienced cardiologist with over 15 years of experience. She specializes in the diagnosis and treatment of all aspects of heart disease, including coronary artery disease, heart failure, and valvular heart disease. Dr. Johnson is also a highly skilled interventional cardiologist, performing procedures such as angioplasty and stenting, and transcatheter aortic valve replacement (TAVR). She is passionate about providing her patients with the best possible care and helping them live long and healthy lives. With a strong dedication to her field, Dr. Johnson continually updates her knowledge to incorporate the latest advancements in cardiac care into her practice. She believes in a patient-centric approach, ensuring that each patient receives personalized care that aligns with their unique needs and conditions. When not at the hospital, Dr. Johnson enjoys spending time with her family, hiking in the beautiful local parks, and advocating for heart health in her community.",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Main, Cityville, USA",
+    "email": "johnson@example.com",
+    "education": "MD in Cardiology, University of Medical Sciences",
+    "board_certification": "American Board of Cardiology",
+    "years_of_expertise": "15 years",
+    "working_shifts": [
+      {
+        "day": "Monday",
+        "time": "8:00 AM - 4:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "time": "8:00 AM - 4:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "time": "10:00 AM - 6:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "time": "10:00 AM - 6:00 PM"
+      },
+      {
+        "day": "Friday",
+        "time": "8:00 AM - 4:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "time": "8:00 AM - 12:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "002",
+    "name": "Dr. Michael Brown",
+    "job_title": "Pediatrician",
+    "profile_url": "https://i.ibb.co/Qkzjx9r/doctor-3.jpg",
+    "about": "Dr. Michael Brown is a board-certified pediatrician with over 12 years of experience. He specializes in the care of infants, children, and adolescents, providing preventive care, managing chronic conditions, and treating acute illnesses. Dr. Brown is also a skilled immunologist, providing vaccinations and other preventive care measures to his patients. He is passionate about helping children grow and thrive, and he is committed to providing his patients with the best possible care. In his free time, Dr. Brown enjoys volunteering at local schools to educate children about the importance of health and wellness. He believes that fostering a healthy lifestyle from a young age can lead to a lifetime of well-being. Outside of his medical practice, Dr. Brown is an avid hiker and enjoys exploring the natural beauty of his region.",
+    "phone": "+1 (555) 987-6543",
+    "address": "456 Elm Avenue, USA",
+    "email": "brown@example.com",
+    "education": "MD in Pediatrics, Children's Hospital University",
+    "board_certification": "American Board of Pediatrics",
+    "years_of_expertise": "12 years",
+    "working_shifts": [
+      {
+        "day": "Monday",
+        "time": "9:00 AM - 5:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "time": "9:00 AM - 5:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "time": "10:00 AM - 6:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "time": "10:00 AM - 6:00 PM"
+      },
+      {
+        "day": "Friday",
+        "time": "9:00 AM - 5:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "time": "9:00 AM - 12:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "name": "Dr. Sarah Adams",
+    "job_title": "Orthopedic Surgeon",
+    "profile_url": "https://i.ibb.co/q52pNsf/doctor-1.jpg",
+    "about": "Dr. Sarah Adams is a highly skilled orthopedic surgeon with over 18 years of experience. She specializes in the diagnosis and treatment of all aspects of musculoskeletal disorders, including arthritis, sports injuries, and fractures. Dr. Adams is also a highly skilled joint replacement surgeon, performing procedures such as total knee replacement and total hip replacement. She is passionate about helping her patients regain their mobility and live active lives. Dr. Adams is known for her compassionate care and her commitment to patient education. She believes that informed patients make better decisions about their health and are more likely to have positive outcomes. She takes the time to explain treatment options thoroughly and answer any questions her patients may have. In her free time, Dr. Adams enjoys outdoor activities like hiking and biking, as well as volunteering at local sports events to provide medical support to athletes.",
+    "phone": "+1 (555) 222-7890",
+    "address": "789 Oak Lane, USA",
+    "email": "adams@example.com",
+    "education": "MD in Orthopedic Surgery, State Medical College",
+    "board_certification": "American Board of Orthopedic Surgery",
+    "years_of_expertise": "18 years",
+    "working_shifts": [
+      {
+        "day": "Monday",
+        "time": "8:00 AM - 4:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "time": "8:00 AM - 4:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "time": "10:00 AM - 6:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "time": "10:00 AM - 6:00 PM"
+      },
+      {
+        "day": "Friday",
+        "time": "8:00 AM - 4:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "time": "8:00 AM - 12:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "name": "Dr. Maria Rodriguez",
+    "job_title": "Obstetrician-Gynecologist",
+    "profile_url": "https://i.ibb.co/C8L9mnH/doctor-4-1.jpg",
+    "about": "Dr. Maria Rodriguez is a dedicated obstetrician-gynecologist with more than 20 years of experience. She specializes in women's health, providing comprehensive care to women of all ages. Dr. Rodriguez is known for her compassionate approach, supporting women through all stages of life, from adolescence to menopause. Her expertise includes managing pregnancies, performing gynecological surgeries, and addressing women's reproductive health concerns. Outside of her medical practice, Dr. Rodriguez is involved in community health programs that focus on women's well-being. She believes in empowering women with knowledge about their health to make informed decisions.Dr. Rodriguez is fluent in both English and Spanish, making her accessible to a diverse range of patients.",
+    "phone": "+1 (555) 333-7890",
+    "address": "567 Elm Street, Cityville, USA",
+    "email": "rodriguez@example.com",
+    "education": "MD in Obstetrics and Gynecology, Women's Medical College",
+    "board_certification": "American Board of Obstetrics and Gynecology",
+    "years_of_expertise": "20 years",
+    "working_shifts": [
+      {
+        "day": "Tuesday",
+        "time": "8:00 AM - 4:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "time": "8:00 AM - 4:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "time": "10:00 AM - 6:00 PM"
+      },
+      {
+        "day": "Friday",
+        "time": "10:00 AM - 6:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "time": "9:00 AM - 1:00 PM"
+      },
+      {
+        "day": "Sunday",
+        "time": "Closed"
+      }
+    ]
+  },
+  {
+    "id": "005",
+    "name": "Dr. James Smith",
+    "job_title": "Dermatologist",
+    "profile_url": " https://i.ibb.co/2knNKmx/doctor-6.jpg",
+    "about": "Dr. James Smith is a highly regarded dermatologist with more than 10 years of experience in the field of dermatology. He specializes in diagnosing and treating various skin conditions, from common dermatological issues to complex skin disorders. Dr. Smith is skilled in performing dermatological procedures, including skin biopsies, mole removals, and laser treatments. He is dedicated to helping his patients achieve healthy and Dr. Smith is a strong advocate for skin cancer awareness and prevention. He regularly conducts skin cancer screenings and educates his patients on the importance of sun protection. In his free time, Dr. Smith enjoys photography and capturing the beauty of nature.",
+    "phone": "+1 (555) 444-5678",
+    "address": "789 Oak Avenue, Townsville, USA",
+    "email": "smith@example.com",
+    "education": "MD in Dermatology, Dermatology Institute",
+    "board_certification": "American Board of Dermatology",
+    "years_of_expertise": "10 years",
+    "working_shifts": [
+      {
+        "day": "Monday",
+        "time": "9:00 AM - 5:00 PM"
+      },
+      {
+        "day": "Tuesday",
+        "time": "9:00 AM - 5:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "time": "10:00 AM - 6:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "time": "10:00 AM - 6:00 PM"
+      },
+      {
+        "day": "Friday",
+        "time": "9:00 AM - 5:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "time": "9:00 AM - 12:00 PM"
+      }
+    ]
+  },
+  {
+    "id": "006",
+    "name": "Dr. David Wilson",
+    "job_title": "Neurologist",
+    "profile_url": " https://i.ibb.co/sJK0TJZ/doctor-2.jpg",
+    "about": "Dr. David Wilson is a renowned neurologist with a career spanning over 25 years. He specializes in the diagnosis and treatment of neurological disorders, including epilepsy, multiple sclerosis, and Parkinson's disease. Dr. Wilson is known for his expertise in conducting neuroimaging studies and interpreting complex neurological tests. He is dedicated to improving the lives of patients with neurological conditions. Dr. Wilson actively participates in clinical research to advance the understanding of neurological diseases. He has published numerous research papers and is a respected figure in the field.In his leisure time, Dr. Wilson enjoys playing the piano and volunteers at a local music therapy program for individuals with neurological conditions.",
+    "phone": "+1 (555) 678-9012",
+    "address": "234 Maple Road, Villagetown, USA",
+    "email": "wilson@example.com",
+    "education": "MD in Neurology, University of Neurosciences",
+    "board_certification": "American Board of Psychiatry and Neurology",
+    "years_of_expertise": "25 years",
+    "working_shifts": [
+      {
+        "day": "Tuesday",
+        "time": "8:00 AM - 4:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "time": "8:00 AM - 4:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "time": "10:00 AM - 6:00 PM"
+      },
+      {
+        "day": "Friday",
+        "time": "10:00 AM - 6:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "time": "9:00 AM - 1:00 PM"
+      },
+      {
+        "day": "Sunday",
+        "time": "Closed"
+      }
+    ]
+  }
+  ]
+  
+
+  
+ 
+ 
