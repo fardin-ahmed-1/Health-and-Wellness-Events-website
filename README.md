@@ -1,6 +1,6 @@
 # Health and Wellness Events Management website
 
-## [Website Live Link](https://hero-assingment-09.netlify.app/) 
+## [Website Live Link](https://hero-assingment-09.netlify.app) 
 
 ### Website features
 
